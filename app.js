@@ -38,7 +38,7 @@ var myChart = new Chart(ctx, {
     data: {
         labels: ["US DOLLAR", "POUNDS STERLING", "EURO", "SWISS FRANC", "YEN", "CFA", "WAUA", "	YUAN/RENMINBI","RIYAL","SOUTH AFRICAN RAND"],
         datasets: [{
-            label: 'Currency Table',
+            label: 'Currency Chart',
             data: [305.25, 404.5784, 358.0583, 	307.278, 2.7448, 0.5351, 429.342, 45.6868, 81.3891, 22.6615],
             backgroundColor: [
                 'rgba(255, 99, 132, 0.2)',
